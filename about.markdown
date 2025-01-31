@@ -4,6 +4,15 @@ title: About
 permalink: /about/
 ---
 
+
+I'm an undergraduate student at University of Alberta. I'm highly interested in software applications and systems. Some of my other interests include: Automated theorem proving, Computer Graphics, and Computer Architecture.
+
+<br>
+
+***
+
+<br>
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:

@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Hello, I'm Harsh. This website contains a series of blog posts detailing my projects and interests.
+<br>
+[Contact me](https://www.linkedin.com/in/harsh-gill/)

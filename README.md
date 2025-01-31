@@ -1,2 +1,2 @@
 # 349gill.github.io
-Personal website with Jekyll
+Jekyll website containing information regarding my projects
